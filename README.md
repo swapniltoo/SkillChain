@@ -19,12 +19,3 @@ We propose a public, tamperproof and transparent application using Blockchain te
 1. Experience building through building a job history and rating mechanism of labourers.
 2. Migrant labourers can show this experience as a resume/CV when they apply for any job anywhere.
 3. Our ultimate aim is to allow labourers to rise up in the social ladder by this process of experience building.
-
-# System Architecture
-![Alt text](https://github.com/Ananthan-Rajasekharan/SkillChain/blob/master/screenshots/skillchain.png?raw=true "Architecture Diagram")
-
-### Team Members
-Ananthan R, Nikhil V Chandran & Anoop V S.
-
-### Demo Video: https://youtu.be/fh3TLUy-7Xg
-### https://www.stateofthedapps.com/dapps/skillchain
